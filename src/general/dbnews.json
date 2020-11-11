@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "name1",
+		"text": "texttexttext texttext text texttext texttexttext texttexttext texttext text texttext texttexttext texttexttext texttext text texttext texttexttext",
+		"date": "01.01.2020"
+	},
+	{
+		"id": 2,
+		"name": "name2",
+		"text": "texttexttext texttexttext texttexttext texttexttext",
+		"date": "02.02.2020"
+	},
+	{
+		"id": 3,
+		"name": "name3",
+		"text": "text text text text text text text text text text text text text text text text text text text text text text text text text text text",
+		"date": "03.03.2020"
+	},
+	{
+		"id": 4,
+		"name": "name4",
+		"text": "texttexttext texttexttext texttexttext texttexttext texttexttext texttexttext",
+		"date": "04.04.2020"
+	}
+]
